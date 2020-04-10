@@ -6,6 +6,6 @@ repo of the course Media and Cognition at THU
 
 create a new folder `data` and put the provided data set `image_exp` in
 
-## References
+## Design
 
-relevant references of the 4 tasks are put in the folder `references`
+Add the final version of our design
