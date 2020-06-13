@@ -2,6 +2,8 @@
 
 Repo of the course Media and Cognition at THU EE
 
+[Click here for Chinese version(中文版)](./README-zh.md)
+
 ## Data Sets
 
 Create a new folder `image_exp` and put the provided data set in
